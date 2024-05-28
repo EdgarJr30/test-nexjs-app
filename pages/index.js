@@ -28,9 +28,9 @@ const Home = () => {
               exit="hidden"
               className="h1 z-30 mt-28 lg:mt-0 xl:mt-0"
             >
-              Nos Preparamos
+              ¡Nos preparamos
               <br /> {""}
-              <span className="text-accent">Para Ti!</span>
+              <span className="text-accent">para ti!</span>
             </motion.h1>
             <motion.p
               variants={fadeIn("down", 0.3)}
