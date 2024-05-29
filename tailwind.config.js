@@ -29,8 +29,8 @@ module.exports = {
       },
       backgroundImage: {
         explosion: 'url("/bg-explosion.png")', 
-        desktop: 'url("/softoms5.png")', 
-        mobile: 'url("/softoms4.png")', 
+        desktop: 'url("/logo_desktop.png")', 
+        mobile: 'url("/logo_movil.png")', 
         circles: 'url("/bg-circles.png")',
         circleStar: 'url("/circle-star.svg")',
         site: 'url("/site-bg.svg")',

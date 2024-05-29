@@ -12,9 +12,9 @@ import { AnimatePresence, motion } from "framer-motion";
 
 export const metadata = {
   icons: {
-    icon: 'https://www.favicon.cc/logo3d/107462.png', // /public path
+    icon: "/favicon.ico", // /public path
   },
-}
+};
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
